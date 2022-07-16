@@ -1,5 +1,5 @@
 # E-Commerce
 ### [Live Site](https://commerce-js.netlify.app/)
 
-![eCommerce](https://www.zaksingle.com/wp-content/uploads/2019/03/e-commerce-website-design.jpg)
+![eCommerce](https://www.kinexmedia.com/wp-content/uploads/2015/05/e-commerce-750x410.jpg)
 
